@@ -1,0 +1,16 @@
+.Footer {
+  margin: 1.375rem 0;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Footer > * {
+  margin: 1.375rem;
+}
+
+@media screen and (max-width: 639px) {
+  .Footer {
+    flex-direction: column;
+  }
+}
