@@ -3,6 +3,12 @@
   padding: 0 30px;
 }
 
+.Compound h2 {
+  max-width: 37.228rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .Compound p {
   margin-top: 2rem;
   max-width: 45.625rem;

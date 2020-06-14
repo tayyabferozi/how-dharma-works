@@ -1,10 +1,16 @@
 .Features {
-  margin-top: 6.25rem;
-  padding: 0 50px;
+  margin-top: 12.5rem;
+  padding: 0 20px;
   text-align: left;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+@media screen and (min-width: 1200px) {
+  .Features {
+    padding: 0 50px;
+  }
 }
 
 .Feature {

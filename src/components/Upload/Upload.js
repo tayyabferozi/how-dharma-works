@@ -14,7 +14,7 @@ const Upload = () => {
         </div>
       </div>
       <h2>
-        Upload your money to the <span className="UploadAnimator">internet.</span>
+        Upload your money to the <span className="UploadGradient">internet.</span>
       </h2>
       <p>
         Dharma can do things your bank can’t because Dharma is powered by special cryptocurrencies called stablecoins. They're just like normal dollars, but they live on the internet – which means they can do magical things.
